@@ -1,2 +1,2 @@
 # iac
-IaC tutorials
+Infrastructure as Code tutorials
